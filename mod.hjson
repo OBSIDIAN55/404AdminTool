@@ -1,14 +1,14 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "[ee0000]4[ee2800]0[ef5000]4 [yellow]Admin toll[]"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "404AdminTool"
 
 #your name
-author: "You"
+author: "Redkill10085 & OBSIDIAN"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "404AdminTool.main"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
@@ -21,3 +21,5 @@ minGameVersion: 154
 
 #this is a java mod
 java: true
+
+hidden: true
