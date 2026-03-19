@@ -1,25 +1,27 @@
 #the mod name as displayed in-game
-displayName: "[ee0000]4[ee2800]0[ef5000]4 [yellow]Admin toll[]"
+{
+#the mod name as displayed in-game
+  "displayName": "404 Admin tool",
 
 #the internal name of your mod
-name: "404AdminTool"
+  "name": "404AdminTool",
 
 #your name
-author: "Redkill10085 & OBSIDIAN"
+  "author": "Redkill10085 & OBSIDIAN55",
 
 #the fully qualified main class of the mod
-main: "404AdminTool.main"
+  "main": "main.ExampleJavaMod",
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+  "description": "A Mindustry Java mod template.",
 
 #the mod version
-version: 1.0
+  "version": 1,
 
 #the minimum game build required to run this mod
-minGameVersion: 154
+  "minGameVersion": 154,
 
 #this is a java mod
-java: true
-
-hidden: true
+  "java": true,
+  "hidden": true
+}
